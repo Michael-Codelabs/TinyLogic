@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ModMetadata xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>Tinylogic</Name>
+  <Author>Defaultcompany</Author>
+  <Version>1.0</Version>
+  <Description>Adds a "Logic Board" that allows the placement of logic components on them in a smaller scale.</Description>
+  <WorkshopHandle>0</WorkshopHandle>
+  <Tags>
+    <Tag>LaunchPad</Tag>
+  </Tags>
+</ModMetadata>
