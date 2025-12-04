@@ -8,4 +8,14 @@
   <Tags>
     <Tag>LaunchPad</Tag>
   </Tags>
+	<Dependencies>
+		<Mod>
+			<Id>3505115682</Id>
+		</Mod>
+	</Dependencies>
+	<LoadBefore>
+		<Mod>
+			<Id>3505115682</Id>
+		</Mod>
+	</LoadBefore>
 </ModMetadata>
