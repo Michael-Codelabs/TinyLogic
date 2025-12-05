@@ -536,5 +536,5 @@ MonoBehaviour:
   quantity: 1
   MaxQuantity: 10
   Constructables:
-  - {fileID: 4945436256796061477, guid: 5f9e106668640414abfa85ffc528badc, type: 3}
+  - {fileID: 7881011255422097078, guid: 5f9e106668640414abfa85ffc528badc, type: 3}
   ModelCopyPrefab: ItemKitLogicSwitch
